@@ -3,7 +3,7 @@
    <!-- robot name parameter -->
    <xacro:arg name="name" default="ur"/>
    <!-- import main macro -->
-   <xacro:include filename="$(find ur_description)/urdf/ur_macro.xacro"/>
+   <xacro:include filename="$(find ur5_simulation)/urdf/ur5_macro.xacro"/>
 
    <xacro:include filename="$(find ur5_simulation)/urdf/camera.xacro"/>
 
