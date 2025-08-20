@@ -20,7 +20,7 @@
 
   <export>
     <build_type>ament_cmake</build_type>
-    <gazebo_ros  gazebo_model_path = "/home/fra/ur_ws/install/ur5_simulation/share/"/>
-    <gazebo_ros  gazebo_model_path = "/home/fra/ur_ws/install/robotiq_description/share/"/>
+    <gazebo_ros  gazebo_model_path = "/home/ayilmaz/ws_mobile_manipulator/install/ur5_simulation/share/"/>
+    <gazebo_ros  gazebo_model_path = "/home/ayilmaz/ws_mobile_manipulator/install/robotiq_description/share/"/>
   </export>
 </package>
